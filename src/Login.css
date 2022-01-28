@@ -1,0 +1,30 @@
+.app__signUp {
+    display: flex;
+    flex-direction: column;
+  }
+  .login__name {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+  }
+  .app__input {
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .login__email {
+    display: flex;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .login__age {
+    width: 20%;
+  }
+  .login__emailinp {
+    width: 80%;
+  }
+  .login__phone {
+    width: 100%;
+  }
+  

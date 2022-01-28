@@ -1,0 +1,41 @@
+.header {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: transparent;
+  }
+  .header__logo {
+    width: 50px;
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 10px;
+  }
+  .header__search {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    width: 100%;
+    padding: 100px;
+  }
+  .header__searchInput {
+    border: none;
+    width: 50%;
+    background-color: white;
+    padding: 10px;
+  }
+  .header__nav {
+    padding: 20px;
+  }
+  .header__signin {
+    color: white;
+    text-decoration: none;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+    font-style: "Franklin Gothic Medium";
+  }
+  
