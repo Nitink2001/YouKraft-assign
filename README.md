@@ -1,3 +1,40 @@
+The word document contaons first two answer.
+
+About signIn page:
+
+steps to follow:
+
+1. You will see a homepage with a "SearchBar" and "SignIn" option in header.
+2. Serach bar is dummy and doesnt do anything, click on the SignIn button
+3. once the form appears, it will check for validation before it lets you allow to submit it.
+
+This application has been made using react-redux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
